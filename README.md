@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nstarr445
 - 👀 I’m interested in Machine Learning, AI, and Signal Processing
-- 🌱 I’m currently learning Machine Learning and AI
+- 🌱 I’m currently learning "Deep Learning for Coders with fastai & PyTorch"
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
